@@ -1,0 +1,5 @@
+{
+  "name": "BotOps",
+  "description": "Discord Bot Monitoring System with AI-powered log analysis and health scoring.",
+  "requestFramePermissions": []
+}
